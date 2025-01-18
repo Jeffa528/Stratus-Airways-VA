@@ -32,7 +32,7 @@
                     "name": "Stratus Airways 737-700",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg"
-                        "https://i.imgur.com/m9fpkSR.jpeg"
+                        "https://i.imgur.com/zTSNAfu.jpeg"
                        
                     ],
                     "credits": "Jeffa"
@@ -94,7 +94,7 @@
                     "name": "Stratus Airways A380-800",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg"
-                        "https://i.imgur.com/GjORX2q.jpeg",
+                        "https://i.imgur.com/XEo4wDZ.jpeg"
                     ],
                     "credits": "Jeffa"
                 }
@@ -206,7 +206,7 @@
                     "name": "Stratus Airways A350-900",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg"
-                        "https://i.imgur.com/1YatuWc.jpeg"
+                        "https://i.imgur.com/zPP5NRr.jpeg"
                     ],
                     "credits": "Jeffa"
                 }
@@ -223,7 +223,7 @@
                     "name": "Stratus Airways 777-300ER",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg"
-                        "https://i.imgur.com/4ZDvo6h.jpeg"
+                        "https://i.imgur.com/CGcsY0e.jpeg"
                     ],
                     "credits": "Jeffa"
                 }
@@ -404,8 +404,16 @@
             ]
         },
         "2973": {
-            "name": "Airbus a350-1000",
-            "liveries": [],
+            "name": "Airbus A350-1000",
+            "liveries": [
+  	{
+                    "name": "Stratus Airways A350-1000",
+                    "texture": [
+                        "https://i.imgur.com/zYMcEO0.jpeg"
+                    ],
+                    "credits": "Jeffa"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
@@ -583,7 +591,7 @@
 	 {
                     "name": "Stratus Airways 747-8i",
                     "texture": [
-                        "blob:https://imgur.com/716dbbd9-8470-41c2-83e1-a89c03c2d92f"
+                        "https://i.imgur.com/TCBRzur.png"
                     ],
                     "credits": "Jeffa"
                 }
