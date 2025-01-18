@@ -28,7 +28,7 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
-	 {
+	        {
                     "name": "Stratus Airways 737-700",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg"
@@ -90,7 +90,7 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
- 	{
+ 	        {
                     "name": "Stratus Airways A380-800",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg"
@@ -164,10 +164,10 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
-	 {
+	        {
                     "name": "Stratus Airways Concorde",
                     "texture": [
-                        "https://i.imgur.com/FFxYiaL.png"
+                        "https://i.imgur.com/DjbnlhP.png"
                     ],
                     "credits": "Jeffa"
                 }
@@ -219,7 +219,7 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
-  	{
+  	        {
                     "name": "Stratus Airways 777-300ER",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg"
@@ -406,7 +406,7 @@
         "2973": {
             "name": "Airbus A350-1000",
             "liveries": [
-  	{
+  	        {
                     "name": "Stratus Airways A350-1000",
                     "texture": [
                         "https://i.imgur.com/zYMcEO0.jpeg"
@@ -588,7 +588,7 @@
         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
-	 {
+	        {
                     "name": "Stratus Airways 747-8i",
                     "texture": [
                         "https://i.imgur.com/TCBRzur.png"
