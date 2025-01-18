@@ -1,6 +1,6 @@
 {
     "name": "Stratus Airways",
-    "color": "#000000",
+    "color": "#FFFFFF",
     "bgcolor": "#6000FF",
     "aircrafts": {
         "1": {
